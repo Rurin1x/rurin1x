@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <h1>Hi, I'm Ivan</h1>
-  <h3>Full Stack Developer from Belarus</h3>
+  <h1>Hi, I'm Rui</h1>
+  <h3>Full Stack Developer</h3>
 </div>
 <div id="badges" align="center">
   <a href="your-youtube-URL">
